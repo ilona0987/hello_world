@@ -1,1 +1,11 @@
-<hl>Hello, World!</hl>
+
+<txt>
+   <head>
+   <!-- некоторый комментарий -->
+   </head>
+   <body>
+      <hl>Hello, World!</hl> 
+   </body>
+  </txt>
+
+
